@@ -218,6 +218,6 @@ Throughout, the **SONICOM/SOFA** convention is used:
 
 ## License
 
-Released under the **MIT License** — see [LICENSE](LICENSE). © 2026 Giorgio Mattina.
+Released under the **MIT License** — see [LICENSE](LICENSE). © 2026 Giorgio Mattina, Francesco Crociani.
 
 
